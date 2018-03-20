@@ -6,13 +6,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="transportexpress.launchertx.MainActivity">
-    <android.support.v4.view.ViewPager
+
+    <GridView
         android:id="@+id/pagina"
         android:layout_above="@id/linea"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="fill_parent"
+        android:background="#F4F4F4"
+        android:numColumns="4" >
+    </GridView>
     <LinearLayout
         android:id="@+id/linea"
+        android:background="#FFFF"
         android:foregroundGravity="bottom"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
