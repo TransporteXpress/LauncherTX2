@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LauncherTX2.iml" filepath="$PROJECT_DIR$/LauncherTX2.iml" />
+      <module fileurl="file://C:\Users\brand\Desktop\LauncherXXX\LauncherTX2.iml" filepath="C:\Users\brand\Desktop\LauncherXXX\LauncherTX2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LauncherXXX.iml" filepath="$PROJECT_DIR$/LauncherXXX.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
